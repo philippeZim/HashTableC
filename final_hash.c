@@ -36,6 +36,8 @@ uint32_t hash_spread(uint32_t h) {
 }
 
 /*
+Example hash for a struct:
+
 typedef struct {
     const char *name;
     int age;
