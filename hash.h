@@ -2,8 +2,7 @@
 #define HASH_H
 
 #include <stdint.h>
-#include <string.h>
-#include <stdio.h>
+
 
 // Hashing function types
 typedef uint32_t (*hash_func)(void*);

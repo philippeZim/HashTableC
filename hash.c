@@ -1,7 +1,7 @@
 #include "hash.h"
 #include <stdlib.h>
 #include <string.h>
-
+#include <stdio.h>
 // Hash functions
 
 uint32_t hash_string(void *v_s) {

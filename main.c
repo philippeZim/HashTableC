@@ -1,5 +1,6 @@
 #include "hash.h"
-#include "stdlib.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 const char *fruits[] = {
     "pumpkin", "pumpkin", "banana", "melon", "melon", "banana", "banana",
